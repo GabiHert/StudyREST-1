@@ -21,7 +21,7 @@ app.use(express.json());
 app.get("/clients",function(req,res){ //get 
     
     console.log("G E T")
-    res.json(data) //sends as rsponse data.json
+    res.json(JSONfile.ReadObj()) //sends as rsponse data.json
 
 });
 

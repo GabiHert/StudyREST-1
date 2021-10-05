@@ -1,1 +1,12 @@
-[{"id":"3","name":"NOME 3 ATUALIZADO","email":"novoemail3update@gmail.com","address":{"street":"casa3update","suite":"suite3update","city":"minhacidade3update"}}]
+[
+    {
+        "id": "1",
+        "name": "PESSOA",
+        "email": "PESSOA@gmail.com",
+        "address": {
+            "street": "PESSOA",
+            "suite": "PESSOA",
+            "city": "PESSOA"
+        }
+    }
+]
